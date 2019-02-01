@@ -1,2 +1,2 @@
 # hello-world
-This repositery is created to contain different ressources for learning Data science from scratch, i personnally managed to take advantge of, it will cover mostly Python, as it is the most appropriate programming laguage to start with especially for people whose passion in data science is  growing.
+This repositery is created to contain different ressources for learning Data science from scratch, i personally managed to take good advantge of, in a short period of time, it will cover mostly Python, as it is the most appropriate programming language to start with especially for people who lack programming skills and whose passion in exploring the world of Data science is unbounded.
